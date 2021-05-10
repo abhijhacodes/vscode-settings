@@ -1,0 +1,48 @@
+AI Autocomplete
+BracketPair
+C/C++
+CSS
+CSS Settings
+Dart & Flutter
+Django configuration
+Emmet
+Git
+GitHub
+GitHub Pull Requests
+Grunt
+Gulp
+HTML
+intelephense
+Jake
+Java
+Java Debugger
+Java Extension Pack
+Java Project Manager
+Java Test Runner
+Javascript Debugger
+JSON
+Jupyter
+kite configuration
+Kotlin
+LESS
+LIve Server Config
+Local History config.
+Markdown
+Material icons
+Material themes
+Merge Conflict
+Node debug
+Npm
+One Dark Pro
+path-intellisense
+PDF Previw
+PHP
+Prettier
+pylance
+Python
+Reference Search View
+Run Code Config.
+SCSS (Sass)
+TabNine
+Typescript
+Visual Studio Intellicode
