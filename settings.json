@@ -1,0 +1,65 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.accessibilitySupport": "on",
+    "editor.fontSize": 16,
+    "python.languageServer": "Microsoft",
+    "window.zoomLevel": 1,
+    "editor.autoClosingBrackets": "always",
+    "python.autoComplete.addBrackets": true,
+    "editor.mouseWheelZoom": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "update.mode": "manual",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSurroundingLines": 4,
+    "editor.cursorWidth": 4,
+    "bracketPairColorizer.forceUniqueOpeningColor": true,
+    "C_Cpp.default.includePath": [
+        "C:\\MinGW\\x86_64-w64-mingw32\\include"
+    ],
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "tabnine.experimentalAutoImports": true,
+    "editor.wordWrap": "on",
+    "diffEditor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "notebook.kernelProviderAssociations": [
+    
+    ]
+}
